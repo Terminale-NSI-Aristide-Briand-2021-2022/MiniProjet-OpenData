@@ -31,3 +31,12 @@ Vous travaillerez en binôme, il faut donc bien se répartir les tâches.
 - Qualité orale (4pts)
 - Qualité du diaporama (4pts)
 - Contenu (8pts)
+
+# Dependances générales
+
+Voir `requirements.txt`
+
+On peut utiliser la commande pour tout installer :
+```sh
+<python path> -m pip install -r requirements.txt
+```
