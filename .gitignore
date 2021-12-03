@@ -1,2 +1,4 @@
 # Folder with all the zipped project
 zips
+
+__pycache__
