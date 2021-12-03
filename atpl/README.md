@@ -1,6 +1,6 @@
 # Projet de Clara et Marine
 
-Nom : ATPL (**A**ctivité **T**ouristique **P**ays de la **L**oire)
+Nom : **ATPL (*A*ctivité *T*ouristique *P*ays de la *L*oire)**
 
 ![Image](https://i.imgur.com/UTooj9M.png)
 
