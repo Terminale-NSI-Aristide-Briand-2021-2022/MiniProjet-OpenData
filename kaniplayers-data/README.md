@@ -1,7 +1,8 @@
 # Projet de Simon et Kevin
 
 Nom : **KaniPlayers' Data**<br>
-DataSet : http://fantomitechno.ovh:3000/api/kaniplayers
+DataSet : http://fantomitechno.ovh:3000/api/kaniplayers<br>
+Fichier principal : `main.py`
 
 ![Image](https://i.imgur.com/VlR07vc.png)
 
