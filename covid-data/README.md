@@ -1,7 +1,7 @@
 # Projet de Gwilherm et Gaëtan
 
 Nom : **Covid Data**<br>
-DataSet : https://www.coronavirus-statistiques.com/corostats/openstats/open_stats_coronavirus.json<br>
+Jeu de donné : https://www.coronavirus-statistiques.com/corostats/openstats/open_stats_coronavirus.json<br>
 Fichier principal : `LeGallic_Lebouvier_MiniProjet2.py`
 
 ![Image](https://i.imgur.com/9tt2eGD.png)

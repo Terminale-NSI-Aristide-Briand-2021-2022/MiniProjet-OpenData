@@ -1,7 +1,7 @@
 # Projet de Flavien et Bastien
 
 Nom : **Cryptocurrency Prices**<br>
-DataSet : https://min-api.cryptocompare.com/data/v2/<br>
+Jeu de donné : https://min-api.cryptocompare.com/data/v2/<br>
 Fichier principal : `evolution_value_cryptocurrencies.py`
 
 ![Image](https://i.imgur.com/7SmeVu4.png)

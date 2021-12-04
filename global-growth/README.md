@@ -1,7 +1,7 @@
 # Projet de Luc et Bryan
 
 Nom : **GlobalGrowth**<br>
-DataSet : https://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv<br>
+Jeu de donné : https://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv<br>
 Fichier principal : `Main.py`
 
 ![Image](https://i.imgur.com/wRv9qTp.png)

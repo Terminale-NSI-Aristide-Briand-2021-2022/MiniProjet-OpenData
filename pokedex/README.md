@@ -1,7 +1,7 @@
 # Projet de Gabriel et Tom
 
 Nom : **Pokédex**<br>
-DataSet : https://pokeapi.co/api/v2/pokemon<br>
+Jeu de donné : https://pokeapi.co/api/v2/pokemon<br>
 Fichier principal : `Pokedex.py`
 
 *Le fond noir n'est pas censé exister (cf version vu en cours)*
