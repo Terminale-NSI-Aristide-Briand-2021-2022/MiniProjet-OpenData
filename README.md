@@ -1,7 +1,7 @@
 # MiniProjet OpenData
 
 
-# Consigne
+# Consignes
 L'objectif est de réaliser une interface graphique avec Tkinter qui permet de visualiser des données au format JSON (ou csv, ou xml) issues d'un OpenData (ou autre serveur ou API, mais dans tous les cas, l'application doit venir récupérer les données en ligne). Vous devrez aussi mettre en oeuvre au minimum une classe (POO).
 
 Le sujet est libre, à vous de choisir.
