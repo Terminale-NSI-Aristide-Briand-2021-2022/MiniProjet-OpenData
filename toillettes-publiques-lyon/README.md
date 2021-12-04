@@ -1,7 +1,7 @@
 # Projet de Kilian et Elouan
 
 Nom : **ToillettesPubliquesLyon**<br>
-Jeu de donné : https://download.data.grandlyon.com/ws/grandlyon/adr_voie_lieu.adrtoilettepublique_latest/all.json<br>
+Jeu de données : https://download.data.grandlyon.com/ws/grandlyon/adr_voie_lieu.adrtoilettepublique_latest/all.json<br>
 Fichier principal : `CodeToilettesPubliques.py`
 
 ![Image](https://i.imgur.com/2roK70J.png)
